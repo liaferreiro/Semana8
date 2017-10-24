@@ -1,0 +1,210 @@
+/*
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+
+
+.navbar2 {
+	margin-left: 70%;
+	font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+	font-size: 1.4em;
+	text-decoration: none;
+  position: absolute;
+  margin-top: 4%;
+  width: 25%;
+  
+}
+
+.navbar2 a{
+	color: white;
+
+    
+}
+
+.navbar2 li a:hover {
+  color:#ffaa80;
+}
+
+
+
+.jumbotron{
+    background-image: url(../images/fondo2.png);
+    background-color: white;
+height: 100vh;
+width: 100%;
+   background-repeat: no-repeat;
+     background-size: 100%;
+   
+}
+
+.jumbotron p{
+    font-family: 'Oswald', sans-serif;
+	color: white;
+	font-size: 4em;
+	text-align: center;
+    font-weight: 300;
+}
+
+.info {
+	margin-top: 8%;
+}
+
+.btn-lg {
+    margin-top: 1%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+	background-color: #ffaa80;
+	border-color: #ffaa80;
+	text-decoration: none;
+	color: white;
+    text-align: center;
+    float: center;
+
+}
+
+.btn-lg:hover {
+	background-color: white;
+  color: #ffaa80;
+ text-decoration: none;
+
+}
+
+
+.middle{
+    background-color: white;
+    background-image: url(../images/fondo3.png);
+   height: 100vh;
+width: 100%;
+background-repeat: no-repeat;
+     background-size: 95%;
+     
+}
+
+
+
+.about {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 3em;
+    float: left;
+    margin-left: 5%;
+    padding-bottom: 3%;
+    text-align: left;
+    margin-top: 12%;
+}
+
+
+
+
+.texto{
+    width: 33%;
+    float: left;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin-left: 5%;
+
+}
+
+
+.middle2 {
+     background-color: white;
+    background-image: url(../images/fondo4.png);
+   height: 100vh;
+width: 100%;
+background-repeat: no-repeat;
+     background-size: 100%;
+     
+}
+
+
+
+.how { font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 2.2em;
+    float: right;
+    margin-right:23%;
+    margin-top: 3%;
+
+}
+
+
+
+
+.abajo {
+    background-color: white;
+    background-image: url(../images/footer.png);
+    height: 30em;
+    width: 100%;
+}
+
+
+.abajo p{
+     font-size: 1.5em;
+     font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+  margin-top: 5%;
+
+}
+
+.abajo h1{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 300;
+  
+}
+
+footer {
+    width: 100%;
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+footer p {
+    padding: 5%;
+    text-align: center;
+    float: center !important;
+}
+
+input {
+
+    margin-right: 30%;
+     float: center;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    margin-left: 30%;
+    float: center !important;
+}
+
+
+    
+    input[type=email]:focus {
+        outline-style: none;
+    border: 3px solid #555;
+}
+
+input[type=email]{
+        width: 30%;
+        float: center;
+}
+
+
+input[type=button], input[type=submit], input[type=reset] {
+    outline-style: none;
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+     font-weight: 300;
+}
+
+
